@@ -1,3 +1,3 @@
 # SAE-Morpion
 
-Objectif crée un morpion avec une taille variable
+Objectif crée un morpion avec une taille variable et d'autre jeu
